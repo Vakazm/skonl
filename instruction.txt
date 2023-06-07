@@ -1,0 +1,19 @@
+bmp file name
+grid count
+palette cells number
+[] palette cells
+
+map file name
+
+ticks delay
+food proportion rate
+spectator view
+growth of view
+players number
+
+[]
+player view
+direction
+segments number
+    [] segment x    segment y
+ 
